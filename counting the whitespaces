@@ -1,0 +1,2 @@
+string="p r ogram in g"
+print(string.count(" "))
